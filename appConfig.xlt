@@ -1,12 +1,12 @@
 {
-	"appName": "nts",
-	"appPackageName": "top.webcat.app729524",
+	"appName": "wsyzj|html",
+	"appPackageName": "top.webcat.app776880",
 	"appVersionName": "1.0",
 	"appVersionCode": 100000,
 	"data": {		
 		"启用顶栏": true,
-		"顶栏标题": "nts",
-		"顶栏颜色": "#FF2C2E43",
+		"顶栏标题": "ankanagft",
+		"顶栏颜色": "#FF2C5E43",
 		"横屏": false,
 		"显示状态栏": true,
 		"启用进度条": true,
